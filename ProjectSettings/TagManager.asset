@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactible
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - InspectObject
+  - PostProcessing
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1802038029
+    locked: 0
+  - name: Nui
+    uniqueID: 4009785269
+    locked: 0
+  - name: Player
+    uniqueID: 2494450263
+    locked: 0
+  - name: San
+    uniqueID: 2432047593
+    locked: 0
+  - name: Object
+    uniqueID: 3172045899
+    locked: 0
